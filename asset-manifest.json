@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/easyhomes/static/css/main.a72b0fd3.chunk.css",
-    "main.js": "/easyhomes/static/js/main.03870dce.chunk.js",
-    "main.js.map": "/easyhomes/static/js/main.03870dce.chunk.js.map",
+    "main.css": "/easyhomes/static/css/main.96ea6f5e.chunk.css",
+    "main.js": "/easyhomes/static/js/main.9e345ff8.chunk.js",
+    "main.js.map": "/easyhomes/static/js/main.9e345ff8.chunk.js.map",
     "runtime~main.js": "/easyhomes/static/js/runtime~main.d9159861.js",
     "runtime~main.js.map": "/easyhomes/static/js/runtime~main.d9159861.js.map",
     "static/js/2.768fa400.chunk.js": "/easyhomes/static/js/2.768fa400.chunk.js",
     "static/js/2.768fa400.chunk.js.map": "/easyhomes/static/js/2.768fa400.chunk.js.map",
     "index.html": "/easyhomes/index.html",
-    "precache-manifest.915ce3f1b20338ef1fd1aadab74bfcdd.js": "/easyhomes/precache-manifest.915ce3f1b20338ef1fd1aadab74bfcdd.js",
+    "precache-manifest.8b6324d3b12ee2e6451442b0b5a015fa.js": "/easyhomes/precache-manifest.8b6324d3b12ee2e6451442b0b5a015fa.js",
     "service-worker.js": "/easyhomes/service-worker.js",
-    "static/css/main.a72b0fd3.chunk.css.map": "/easyhomes/static/css/main.a72b0fd3.chunk.css.map",
+    "static/css/main.96ea6f5e.chunk.css.map": "/easyhomes/static/css/main.96ea6f5e.chunk.css.map",
     "static/media/logo.svg": "/easyhomes/static/media/logo.5d5d9eef.svg"
   }
 }
